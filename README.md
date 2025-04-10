@@ -7,6 +7,12 @@
 ## 👋 Connect with Me
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yair-avramovitch)](https://www.linkedin.com/in/yair-avramovitch) 
 
+## Disclaimer
+
+This project is intended for **educational purposes only**.  
+The author is not responsible for any misuse or damage caused by the use of this software.  
+Do not misuse the trial key generation, Use responsibly and in accordance with all applicable laws and regulations.
+
 ---
 ## 🚀 Features
 - **🔐 Trial Key Generation**
